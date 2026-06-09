@@ -1,2 +1,2 @@
 # New
-This is my 1st gitrepo
+This is my 1st Git Repository
